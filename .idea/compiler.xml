@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Area_printer_main" target="1.8" />
+      <module name="Problems-Area_printer_test" target="1.8" />
+      <module name="Problems-Bank_account_main" target="1.8" />
+      <module name="Problems-Bank_account_test" target="1.8" />
+      <module name="Problems-Board_game_basics__Player_main" target="1.8" />
+      <module name="Problems-Board_game_basics__Player_test" target="1.8" />
+      <module name="Problems-Car_main" target="1.8" />
+      <module name="Problems-Car_test" target="1.8" />
+      <module name="Problems-Companion_main" target="1.8" />
+      <module name="Problems-Companion_test" target="1.8" />
+      <module name="Problems-Composition_main" target="1.8" />
+      <module name="Problems-Composition_test" target="1.8" />
+      <module name="Problems-Currencies_main" target="1.8" />
+      <module name="Problems-Currencies_test" target="1.8" />
+      <module name="Problems-Currency_comparision_main" target="1.8" />
+      <module name="Problems-Currency_comparision_test" target="1.8" />
+      <module name="Problems-Danger_level_main" target="1.8" />
+      <module name="Problems-Danger_level_test" target="1.8" />
+      <module name="Problems-Fix_me_main" target="1.8" />
+      <module name="Problems-Fix_me_test" target="1.8" />
+      <module name="Problems-Patient_needs_a_doctor_main" target="1.8" />
+      <module name="Problems-Patient_needs_a_doctor_test" target="1.8" />
+      <module name="Problems-Point2D_main" target="1.8" />
+      <module name="Problems-Point2D_test" target="1.8" />
+      <module name="Problems-Pseudo-constructor_main" target="1.8" />
+      <module name="Problems-Pseudo-constructor_test" target="1.8" />
+      <module name="Problems-Reddit_main" target="1.8" />
+      <module name="Problems-Reddit_test" target="1.8" />
+      <module name="Problems-Strings_as_objects_main" target="1.8" />
+      <module name="Problems-Strings_as_objects_test" target="1.8" />
+      <module name="Unit_Converter-task_main" target="1.8" />
+      <module name="Unit_Converter-task_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

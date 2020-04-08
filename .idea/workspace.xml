@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33b74149-0a13-467a-871c-c80dd54bb1bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a1chCSjU2Fxv6Z0q8rM9nCCX7d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unit Converter/task/src/converter" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Unit Converter/task/src/converter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.converter.MainKt">
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Currency_comparision_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Danger_level_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="converter.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Unit_Converter-task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="converter.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.converter.MainKt" />
+        <item itemvalue="Kotlin.TaskKt (1)" />
+        <item itemvalue="Kotlin.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33b74149-0a13-467a-871c-c80dd54bb1bb" name="Default Changelist" comment="" />
+      <created>1585906657227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585906657227</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2679" y="271" width="442" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586178086576">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2679" y="271" width="442" height="562" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586178086576" />
+    <state x="256" y="27" width="1448" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586251951948">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="256" y="27" width="1448" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/51.27.1869.1053@51.27.1869.1053" timestamp="1586251951948" />
+    <state width="1823" height="223" key="GridCell.Tab.0.bottom" timestamp="1586355725618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725618" />
+    <state width="1823" height="372" key="GridCell.Tab.0.bottom/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602506" />
+    <state width="1823" height="223" key="GridCell.Tab.0.center" timestamp="1586355725618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.0.center/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725618" />
+    <state width="1823" height="372" key="GridCell.Tab.0.center/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602506" />
+    <state width="1823" height="223" key="GridCell.Tab.0.left" timestamp="1586355725617">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.0.left/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725617" />
+    <state width="1823" height="372" key="GridCell.Tab.0.left/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602506" />
+    <state width="1823" height="223" key="GridCell.Tab.0.right" timestamp="1586355725618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.0.right/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725618" />
+    <state width="1823" height="372" key="GridCell.Tab.0.right/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602506" />
+    <state width="1823" height="223" key="GridCell.Tab.1.bottom" timestamp="1586355725618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725618" />
+    <state width="1823" height="372" key="GridCell.Tab.1.bottom/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602508" />
+    <state width="1823" height="223" key="GridCell.Tab.1.center" timestamp="1586355725618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.1.center/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725618" />
+    <state width="1823" height="372" key="GridCell.Tab.1.center/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602507" />
+    <state width="1823" height="223" key="GridCell.Tab.1.left" timestamp="1586355725618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.1.left/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725618" />
+    <state width="1823" height="372" key="GridCell.Tab.1.left/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602506" />
+    <state width="1823" height="223" key="GridCell.Tab.1.right" timestamp="1586355725618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1823" height="223" key="GridCell.Tab.1.right/1920.0.1920.1080/0.596.1920.1080@1920.0.1920.1080" timestamp="1586355725618" />
+    <state width="1823" height="372" key="GridCell.Tab.1.right/51.27.1869.1053@51.27.1869.1053" timestamp="1586335602508" />
+    <state x="474" y="187" key="SettingsEditor" timestamp="1586335293056">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="474" y="187" key="SettingsEditor/51.27.1869.1053@51.27.1869.1053" timestamp="1586335293056" />
+    <state x="616" y="962" key="com.intellij.ide.util.TipDialog" timestamp="1586347426515">
+      <screen x="0" y="596" width="1920" height="1080" />
+    </state>
+    <state x="616" y="962" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.596.1920.1080@0.596.1920.1080" timestamp="1586347426515" />
+    <state x="651" y="384" key="com.intellij.ide.util.TipDialog/51.27.1869.1053@51.27.1869.1053" timestamp="1586329827627" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
